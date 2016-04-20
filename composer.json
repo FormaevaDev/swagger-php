@@ -40,5 +40,8 @@
         "psr-4": {
             "SwaggerTests\\": "tests/"
         }
-    }
+    },
+    "bin": [
+        "bin/swagger"
+    ]
 }
